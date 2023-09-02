@@ -8,7 +8,7 @@ public class BinToDec {
         // int num1 = sc.nextInt();
         int num1 = sc.nextInt();
         int binTodec = binToDec(num1);
-        System.out.println("Binary number is" + num1 + " and will be " +  binTodec + " in decimal" );
+        System.out.println("Binary number is " + num1 + " and will be " +  binTodec + " in decimal" );
     }
 
     public static int binToDec (int binNum){
